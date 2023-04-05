@@ -7,6 +7,9 @@ h2{
    font-family: 'Bebas Neue', cursive;
    font-size: 30px; 
 }
+.form-side h1{
+    font-family: 'Bebas Neue', cursive;
+}
 .nav-color{
     background-color: black;
     height: 80px;
@@ -32,14 +35,14 @@ color:white;
 
 .logo{
     float: left;
-    font-size: 60px;
     margin-left: 100px;
+    margin-top: 10px;
     
 
 }
 .logo h2{
 font-family: 'Delicious Handrawn', cursive;
-font-size: 40px;
+font-size: 50px;
 }
 
 .nav-con ul{
@@ -77,6 +80,7 @@ font-size: 40px;
     height: 250px;
     margin-top: 20px;
     border-radius: 10px;
+    background-size: cover;
 }
 .book-photo-2{
     background-image: url(../assets/miami.jpg);
@@ -86,6 +90,7 @@ font-size: 40px;
     height: 250px;
     margin-top: 20px;
     border-radius: 10px;
+    background-size: cover;
 }
 .book-photo-3{
     background-image: url(../assets/paris.jpg);
@@ -95,6 +100,7 @@ font-size: 40px;
     height: 250px;
     margin-top: 20px;
     border-radius: 10px;
+    background-size: cover;
 }
 .book-photo-4{
     background-image: url(../assets/pyongyang.jpg);
@@ -104,6 +110,7 @@ font-size: 40px;
     height: 250px;
     margin-top: 20px;
     border-radius: 10px;
+    background-size: cover;
 }
 .book-now-button{
     color: white;
